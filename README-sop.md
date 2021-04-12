@@ -58,6 +58,8 @@ For more configuration options see [RUNNING](RUNNING.md).
 
 A hook is a script that, when executed with `--config` option, outputs configuration to stdout in YAML or JSON format. [Learn more](HOOKS.md) about hooks.
 
+***TEST LINE***
+
 Let's create a small operator that will watch for all Pods in all Namespaces and simply log the name of a new Pod.
 
 `kubernetes` binding is used to tell shell-operator about objects that we want to watch. Create the `pods-hook.sh` file with the following content:
