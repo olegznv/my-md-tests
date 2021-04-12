@@ -235,8 +235,8 @@ More examples can be found in the [examples](examples/) directory.
 # Notable shell-operator users
 
 * [Deckhouse](https://deckhouse.io/);
-* KubeSphere installer;
-* Confluent Kafka DevOps solution.
+* [KubeSphere installer](https://github.com/kubesphere/ks-installer);
+* [Confluent Kafka DevOps solution](https://github.com/confluentinc/streaming-ops).
 
 Find out more in [Show & tell discussions](https://github.com/flant/shell-operator/discussions/categories/show-and-tell).
 
