@@ -1,7 +1,7 @@
 **Attention:** this is an experimental project. There is no connection with the [shell-operator](https://github.com/flant/shell-operator).
 
 <p align="center">
-<img width="485" src="docs/shell-operator-logo.png" alt="Shell-operator logo" />
+<img width="485" src="https://github.com/olegznv/my-md-tests/blob/main/shell-operator-logo.png" />
 </p>
 
 <p align="center">
